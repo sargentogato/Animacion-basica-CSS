@@ -1,1 +1,1 @@
-# Basic Animatio with CSS
+# Basic Animation with CSS
